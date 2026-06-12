@@ -1,0 +1,5 @@
+{
+  "appId": "com.jethro.myapp",
+  "appName": "Order Management System",
+  "webDir": "dist"
+}

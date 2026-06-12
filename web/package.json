@@ -11,6 +11,9 @@
     "tailwind": "tailwindcss init -p"
   },
   "dependencies": {
+    "@capacitor/android": "^8.4.0",
+    "@capacitor/cli": "^8.4.0",
+    "@capacitor/core": "^8.4.0",
     "@supabase/supabase-js": "^2.108.1",
     "lucide-react": "^1.17.0",
     "react": "^19.2.6",
